@@ -3,7 +3,6 @@
 - [Introduction](README.md)
   - [The importance of creative problem-solving](chapter-1-1.md)
   - [Understanding the benefits of innovative approaches to tough challenges](chapter-1-2.md)
-  - [Overview of the book's contents](chapter-1-3.md)
 - [Chapter 1: Defining Creative Problem-Solving](chapter-2.md)
   - [What is creative problem-solving?](chapter-2-1.md)
   - [The history of creative problem-solving](chapter-2-2.md)
