@@ -1,5 +1,3 @@
-Chapter 1: Defining Creative Problem-Solving
-============================================
 
 Creative problem-solving is a powerful approach to tackling tough challenges. In this chapter, we will define creative problem-solving and explore its history, role in personal and professional success, and strategies for embracing this approach.
 

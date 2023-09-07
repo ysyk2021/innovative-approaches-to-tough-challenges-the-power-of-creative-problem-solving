@@ -1,5 +1,3 @@
-Chapter 7: Navigating Setbacks
-==============================
 
 Setbacks are an inevitable part of any problem-solving process. In this chapter, we explore the nature of setbacks and strategies for navigating them.
 

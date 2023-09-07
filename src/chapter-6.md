@@ -1,5 +1,3 @@
-Chapter 5: Evaluating Options
-=============================
 
 Evaluating options is a critical step in the problem-solving process. In this chapter, we explore the principles of effective evaluation, strategies for evaluating options, building self-awareness, and overcoming decision fatigue.
 

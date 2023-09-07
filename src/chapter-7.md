@@ -1,5 +1,3 @@
-Chapter 6: Implementing a Solution
-==================================
 
 Implementing a solution is a critical step in the problem-solving process. In this chapter, we explore the impact of effective implementation on creative problem-solving, strategies for implementing a solution, building a support system, and overcoming resistance to change.
 

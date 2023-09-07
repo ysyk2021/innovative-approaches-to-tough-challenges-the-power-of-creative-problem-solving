@@ -1,5 +1,3 @@
-Chapter 8: Applying Creative Problem-Solving to Personal and Professional Goals
-===============================================================================
 
 Creative problem-solving is a powerful approach to achieving personal and professional goals. In this chapter, we will explore the role of creative problem-solving in achieving personal and professional goals, strategies for applying this approach to your goals, building a support system, and the impact of creative problem-solving on personal and professional success.
 

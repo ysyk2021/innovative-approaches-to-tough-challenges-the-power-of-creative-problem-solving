@@ -1,5 +1,3 @@
-Chapter 9: Sustaining Creative Problem-Solving
-==============================================
 
 Sustaining creative problem-solving over the long-term can be challenging, but it is essential for achieving personal and professional goals. In this chapter, we will explore strategies for maintaining motivation and inspiration, overcoming burnout and exhaustion, building a support system, and sustaining creative problem-solving efforts over time.
 

@@ -1,5 +1,3 @@
-Chapter 2: Mindset for Creative Problem-Solving
-===============================================
 
 Developing a mindset for creative problem-solving is essential for tackling tough challenges. In this chapter, we will explore strategies for developing a growth mindset, overcoming limiting beliefs about creative problem-solving, building resilience, and cultivating curiosity.
 
@@ -27,5 +25,4 @@ Conclusion
 ----------
 
 Developing a mindset for creative problem-solving involves cultivating a growth mindset, overcoming limiting beliefs, building resilience, and nurturing curiosity. By embracing these strategies, individuals can unlock their full potential for innovation and effectively tackle tough challenges.
-
 
