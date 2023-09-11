@@ -1,5 +1,4 @@
-Chapter 6: Building Self-Awareness
-==================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of building self-awareness in the process of creative problem solving. Self-awareness plays a vital role in understanding our own thoughts, emotions, and behaviors, which allows us to navigate challenges more effectively and harness our creativity. By developing self-awareness, individuals can enhance their problem-solving skills, tap into their strengths, and overcome obstacles with greater resilience. Let's delve into the key strategies for building self-awareness.
 

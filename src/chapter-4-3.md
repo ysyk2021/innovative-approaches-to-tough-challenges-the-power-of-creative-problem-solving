@@ -1,5 +1,4 @@
-Chapter 4: Understanding the Impact of the Problem
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of understanding the impact of the problem in the process of creative problem solving. Before diving into generating solutions, it is crucial to gain a comprehensive understanding of the problem's significance and its implications for individuals, organizations, and society as a whole. By understanding the impact of the problem, individuals can prioritize their efforts, identify potential barriers, and develop targeted and impactful solutions. Let's delve into the key considerations for understanding the impact of the problem.
 

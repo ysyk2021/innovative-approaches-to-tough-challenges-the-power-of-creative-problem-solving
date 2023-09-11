@@ -1,5 +1,4 @@
-Chapter 8: Overcoming Decision Fatigue
-======================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore strategies for overcoming decision fatigue in the context of creative problem-solving. Decision fatigue refers to the mental exhaustion that occurs when individuals are faced with a series of decisions, leading to decreased decision-making quality and productivity. Overcoming decision fatigue is crucial for maintaining clarity, focus, and effective problem solving. Let's delve into the key strategies for managing and overcoming decision fatigue.
 

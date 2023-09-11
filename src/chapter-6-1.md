@@ -1,5 +1,4 @@
-Chapter 9: Understanding the Principles of Effective Evaluation
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the principles of effective evaluation in the context of creative problem solving. Evaluation is a critical step that allows us to assess the effectiveness and impact of our solutions. By understanding and applying the principles of evaluation, individuals and organizations can make informed decisions, learn from their experiences, and continuously improve their problem-solving processes. Let's delve into the key principles of effective evaluation.
 

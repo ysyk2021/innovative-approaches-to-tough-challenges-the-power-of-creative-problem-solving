@@ -1,5 +1,4 @@
-Chapter 8: Strategies for Evaluating Options
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore effective strategies for evaluating options when faced with tough challenges. Creative problem solving requires careful consideration and analysis of different alternatives to identify the best course of action. By employing systematic evaluation techniques, individuals and organizations can make informed decisions and find innovative solutions. Let's delve into the key strategies for evaluating options in the process of creative problem solving.
 

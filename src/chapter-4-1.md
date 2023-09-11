@@ -1,5 +1,4 @@
-Chapter 3: The Importance of Effectively Identifying the Problem
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical role of effectively identifying the problem in the process of creative problem solving. Before generating innovative solutions, it is essential to gain a deep understanding of the problem at hand. By properly defining and framing the problem, individuals and organizations can set themselves up for success and uncover new perspectives and opportunities. Let's delve into the key considerations and techniques for effectively identifying the problem.
 

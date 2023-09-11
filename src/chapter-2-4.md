@@ -1,5 +1,4 @@
-Chapter 2: Embracing Creative Problem-Solving
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the mindset and strategies needed to embrace creative problem-solving. Creative problem-solving is an approach that encourages innovative thinking, out-of-the-box solutions, and a willingness to explore new possibilities. By embracing creativity, individuals can overcome challenges with fresh perspectives, generate novel ideas, and unlock their full problem-solving potential. Let's delve into the key strategies for embracing creative problem-solving.
 

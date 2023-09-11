@@ -1,5 +1,4 @@
-Chapter 1: What is Creative Problem-Solving?
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of creative problem-solving and its significance in tackling tough challenges. Creative problem-solving is an approach that involves generating innovative ideas, thinking outside the box, and finding unique solutions to complex problems. It empowers individuals to break free from traditional constraints and embrace novel perspectives, enabling them to overcome obstacles and drive meaningful change. Let's delve into the key aspects of creative problem-solving.
 
